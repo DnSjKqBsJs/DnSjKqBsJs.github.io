@@ -49,7 +49,7 @@ Pour la vidéo ci-dessous, pour mieux le représenter, imaginons que je dois pro
 Un sort de construction qui permet de créer des murs ou des plateformes pour permettre à son allié de se déplacer vers l'ennemi.
 
 <div>
-  <video width="100%" src="/assets/perso/slomo.mp4" controls></video>
+  <video width="100%" src="/assets/perso/build.mp4" controls></video>
 </div>
 
 #### 5: Slow Motion

@@ -20,7 +20,7 @@ Pour les IA, j'ai utilisé Unreal Engine. J'ai utilisé le système de behavior 
 Développé en janvier 2024, voici mes premiers pas dans l'IA avec un mage qui lance des sorts et se déplace.
 
 <div>
-  <video width="100%" src="/assets/perso/mageia.mp4" controls></video>  
+  <video playsinline width="100%" src="/assets/perso/mageia.mp4" controls></video>  
 </div>
 
 #### Boss IA

@@ -28,7 +28,7 @@ Développé en janvier 2024, voici mes premiers pas dans l'IA avec un mage qui l
 
 #### Boss IA
 
-Mo premier boss, un géant à la hache. Il a plusieurs phases, se déplace, attaque, lance des sorts, effectue des attaques spéciales et possède beaucoup de points de vie.
+Mon premier boss, un géant à la hache. Il a plusieurs phases, se déplace, attaque, lance des sorts, effectue des attaques spéciales et possède beaucoup de points de vie.
 
 <div>
   <video playsinline width="100%" controls>

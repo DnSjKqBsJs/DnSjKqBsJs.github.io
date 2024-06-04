@@ -20,7 +20,10 @@ Pour les IA, j'ai utilisé Unreal Engine. J'ai utilisé le système de behavior 
 Développé en janvier 2024, voici mes premiers pas dans l'IA avec un mage qui lance des sorts et se déplace.
 
 <div>
-  <video playsinline width="100%" src="/assets/perso/mageia.mp4" controls></video>  
+  <video playsinline width="100%" controls>
+    <source src="/assets/perso/mageia.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la balise vidéo.
+  </video>
 </div>
 
 #### Boss IA
@@ -28,5 +31,8 @@ Développé en janvier 2024, voici mes premiers pas dans l'IA avec un mage qui l
 Mon premier boss, un géant à la hache. Il a plusieurs phases, se déplace, attaque, lance des sorts, effectue des attaques spéciales et possède beaucoup de points de vie.
 
 <div>
-  <video width="100%" src="/assets/perso/boss.mp4" controls></video>
+  <video playsinline width="100%" controls>
+    <source src="/assets/perso/boss.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la balise vidéo.
+  </video>
 </div>
